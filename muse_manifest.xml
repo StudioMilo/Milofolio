@@ -1,0 +1,85 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.milostudio.co" resolutions="1x" timestamp="1548706551852">
+  <folder name="css">
+    <file name="site_global.css" crc="3768001699"/>
+    <file name="branding.css" crc="431428829" ref="branding"/>
+    <file name="nomq_branding.css" crc="3951561316" ref="branding"/>
+    <file name="illustration.css" crc="4033903484" ref="illustration"/>
+    <file name="nomq_illustration.css" crc="4132798613" ref="illustration"/>
+    <file name="index.css" crc="4220784638" ref="index"/>
+    <file name="nomq_index.css" crc="4260961789" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="hkconcentrate-heavy1.woff" crc="4073753002"/>
+    <file name="hkconcentrate-heavy1.eot" crc="56708814"/>
+  </folder>
+  <folder name="assets">
+    <folder name="smallanmt">
+      <file name="smallanmt.js" crc="3950652246" mt="1548697451000"/>
+      <file name="smallanmt.html" crc="416446073" mt="1548697451000"/>
+    </folder>
+    <folder name="bow_big">
+      <file name="bow_big.js" crc="275772091" mt="1544800236000"/>
+      <file name="bow_big.html" crc="4057706695" mt="1544800236000"/>
+    </folder>
+    <file name="-musepen--mobile-dropdown-menu.mulib" crc="4277197648" seo="true" mt="1441165293000"/>
+    <file name="ilu_0000_clothes.jpg" crc="100934280" seo="true" mt="1534281222000"/>
+    <file name="ilu_0001_vitrail.png" crc="313956901" seo="true" mt="1534291010000"/>
+    <file name="ilu_0002_alice.jpg" crc="96211821" seo="true" mt="1534281223000"/>
+    <file name="ilu_0003_stun.jpg" crc="4221516727" seo="true" mt="1534281223000"/>
+    <file name="ilu_0004_caballo.jpg" crc="4257527098" seo="true" mt="1534281223000"/>
+    <file name="ilu_0006_fleur-du-mal.jpg" crc="43061707" seo="true" mt="1534281225000"/>
+    <file name="ilu_0008_what-a-waste.jpg" crc="4167479225" seo="true" mt="1534281225000"/>
+    <file name="infan05.png" crc="98441039" seo="true" mt="1534701700000"/>
+    <file name="infan01.png" crc="4088372646" seo="true" mt="1534701698000"/>
+    <file name="infan02.png" crc="4070080845" seo="true" mt="1534624182000"/>
+    <file name="ilu_0005_pensamientos.jpg" crc="3800775197" seo="true" mt="1534701699000"/>
+    <file name="book_mu.jpg" crc="271272704" seo="true" mt="1548607929000"/>
+    <file name="logo_anniehorse.png" crc="180666715" seo="true" mt="1548606929000"/>
+    <file name="logo_anniehorse_icon.png" crc="4008200844" seo="true" mt="1548609244000"/>
+    <file name="logo_ojodetigre.png" crc="4159836886" seo="true" mt="1548609552000"/>
+    <file name="ojodetigre_label.jpg" crc="536359551" seo="true" mt="1548610058000"/>
+    <file name="logo_abrazopolar.png" crc="451690784" seo="true" mt="1548610540000"/>
+    <file name="logo_lapinparis.png" crc="476480757" seo="true" mt="1548611230000"/>
+    <file name="logo_bionik.png" crc="4036732536" seo="true" mt="1548611420000"/>
+    <file name="tarjetas.jpg" crc="328349322" seo="true" mt="1548605790000"/>
+    <file name="logo_escuchame.png" crc="248192495" seo="true" mt="1548611666000"/>
+    <file name="logo_festival.png" crc="4271318899" seo="true" mt="1548612220000"/>
+    <file name="logo_tigre.png" crc="304768893" seo="true" mt="1548685878000"/>
+    <file name="brochure_lenguaje.jpg" crc="4135685024" seo="true" mt="1548686062000"/>
+    <file name="illustration_tigre.png" crc="4175603707" seo="true" mt="1548686241000"/>
+    <file name="happy.png" crc="264044249" seo="true" mt="1548690969000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:illustration:branding"/>
+    <file name="museutils.js" crc="3803043152" ref="index:illustration:branding"/>
+    <file name="whatinput.js" crc="86476730" ref="index:illustration:branding"/>
+    <file name="museconfig.js" crc="380897831" ref="index:illustration:branding"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:illustration:branding"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:illustration:branding"/>
+    <file name="webpro.js" crc="242022427" ref="index:illustration:branding"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:illustration:branding"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:illustration:branding"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:illustration:branding"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:illustration:branding"/>
+    <file name="require.js" crc="4157109226" ref="index:illustration:branding"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="illustration:branding"/>
+  </folder>
+  <folder name="images">
+    <file name="menu.svg" crc="4239218403" ref="index"/>
+    <file name="menu_poster_u3488.png" crc="3926962379" ref="index"/>
+    <file name="close.svg" crc="196903932" ref="index"/>
+    <file name="close_poster_u3496.png" crc="217803233" ref="index"/>
+    <file name="bg.svg" crc="348406436" ref="illustration:branding"/>
+    <file name="bg_poster_u3394.png" crc="4248568319" ref="illustration:branding"/>
+    <file name="image.jpg" crc="4172382851" ref="illustration:branding">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="menurosa.svg" crc="4273309823" ref="illustration:branding"/>
+    <file name="menurosa_poster_u3978.png" crc="119506572" ref="illustration:branding"/>
+    <file name="closerosa.svg" crc="3778936283" ref="illustration:branding"/>
+    <file name="closerosa_poster_u3986.png" crc="2196411" ref="illustration:branding"/>
+  </folder>
+  <file name="index.html" crc="394019498" seo="true" mt="1548706429855" redirect="true"/>
+  <file name="illustration.html" crc="413613900" seo="true" mt="1548706413911" redirect="true"/>
+  <file name="branding.html" crc="4294764839" seo="true" mt="1548706465417" redirect="true"/>
+</manifest>
